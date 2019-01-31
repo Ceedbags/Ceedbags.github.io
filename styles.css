@@ -1,0 +1,45 @@
+
+body{
+	background: #E2F1AF;
+	color: #31231E;
+	font-size: 14pt;
+	font-family: 'Hind', sans-serif;
+}
+
+
+h1 {
+	font-size: 250%;
+	font-weight: bold;
+}
+
+
+h2 {
+	font-size: 150%;
+}
+
+
+nav a{
+	display: inline-block;
+	border: 1.45px solid black;
+	padding: 3px;
+	margin: 5px;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: lightgray;
+}
+
+a{
+	display: inline-block;
+	border: 1.45px clear;
+	padding: 1px;
+	color: #5a3a31;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+}
